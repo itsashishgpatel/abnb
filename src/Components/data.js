@@ -331,7 +331,7 @@ director: "Yes",
 },
 {
 id: 47,
-title: "3P-0047",
+title: "3P-047",
 year: "1989",
 genres: ["Los Gatos"],
 director: "No",
